@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gssinghgautam" alt="gssinghgautam" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/kunwar_gautam4" target="blank"><img src="https://img.shields.io/twitter/follow/kunwar_gautam4?logo=twitter&style=for-the-badge" alt="kunwar_gautam4" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kunwar_gautam4" target="blank"> <img src="https://img.shields.io/twitter/follow/kunwar_gautam4?logo=twitter&style=for-the-badge" alt="kunwar_gautam4" /></a> </p>
 
 - 🔭 I’m currently working on a flutter app [Dialoz](https://github.com/gssinghgautam/dialoz)
 
